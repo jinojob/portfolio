@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;}
+
+#navh{
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+span{
+    font-size: 20px;
+    color: white;
+    
+    
+}
+i{
+    font-size: 35px;
+    margin-right: 0.5rem;
+    color: white;
+    
+}
+
+.headlink{
+    display: flex;
+    justify-content: right;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.head{
+    font-size: 15px;
+    display: inline;
+    margin: 0px 10px;
+    
+}
+.link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.mainhead{
+    text-align: center;
+    font-size:30px;
+    font-weight: 300px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+p{
+    word-spacing: 3px;
+    line-height: 30px;
+    font-size: large;
+}
+
+.column{
+    border: solid;
+    border-radius: 10px;
+    width: 17%;
+    height: 50%;
+    
+    border-color:rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+#itmhead {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    text-align: center;
+    color: white;
+    height: 50px;
+    padding-top: 10px;
+    font-size: 24px;
+
+    
+}
+#mnth{
+    color: rgb(38, 0, 255);
+}
+#incl{
+    margin: 10% 0px;
+}
+h2{
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+
+#itlink{
+    margin-top: 30px;
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 90%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.itemcl{
+    display: flex;
+    justify-content: space-evenly;
+}
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    
+    text-align: center;
+}
+#planh{
+    margin-top: 6%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+.plan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plandetail img{
+text-align: center;
+width: 70%;
+}
+
+.plandetail{
+    text-align: center;
+}
+
+.plandetail h1{
+    font-size: 40px;
+    margin-bottom: 35px;
+}
+
+
+
+.parentf{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(255, 255, 255);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.linkf{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#span{
+    font-weight: bold;
+}
+
+i{
+   width: 40px;
+}
+
+.linkf a{
+    text-decoration: none;
+
+}
+.linkf a{
+   
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+/* .parentf{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(0, 0, 0);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
+
+.linkf{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    word-spacing: 30px;
+    
+}
+
+#spanf{
+    font-size: 30px; 
+    
+    font-weight: bolder;
+}
+
+i{
+   width: 40px;
+}
+
+.linkf a{
+    text-decoration: none;
+
+}
+.linkf a{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.tic{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+.childf{
+    margin-left: 180px;
+}
+
+.linkf p{
+    border-bottom: solid;
+}
+
+.parentf a{
+    border-bottom: solid;
+
+} */
